@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{22CC8C28-1753-47C4-AB3A-BB171AC11FBB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Moe/Entry.cs">
+    <Files>
+      <File FileName="Moe/Entry.cs" Line="67" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Moe PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
